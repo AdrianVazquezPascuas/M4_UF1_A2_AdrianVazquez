@@ -43,6 +43,7 @@
 ```
 7. ¿Qué es CSS?
    CSS es un lenguaje usado para dar estilos a un documento HTML. CSS describe como los elementos HTML deberian ser mostrados.
+   
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
 ![img](img/1.png)
