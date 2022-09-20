@@ -28,7 +28,7 @@
 
     Es un lenguaje de marcas. Es un lenguaje estandart para crear sitios web.
 
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -39,3 +39,4 @@
 <body>
 </body>
 </html>
+````
